@@ -22,7 +22,7 @@ Here are some of the projects I've been working on:
 
 1. [My Notes](https://github.com/pasichDev/My-Notes): My Notes is a user-friendly app for capturing and organizing your ideas, tasks, and memos. Stay organized and productive with this simple note-taking solution..
 2. [NosoSova](https://github.com/pasichDev/nososova): Noso cryptocurrency wallet..
-3. [NosoDart](https://github.com/Noso-Project/NosoDart): Implementation of basic cryptographic functions for Noso
+3. [NosoDart](https://github.com/Noso-Project/NosoSova): Implementation of basic cryptographic functions for Noso
 
 Feel free to explore my repositories for more exciting projects!
 
