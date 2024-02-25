@@ -1,6 +1,7 @@
 # My Awesome GitHub Repository
-
 Hey there! 👋 I'm a 23-year-old developer from Ukraine, passionate about coding and technology. 🚀
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pasichDev&show_icons=true&theme=radical)
 
 ## About Me
 
