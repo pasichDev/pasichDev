@@ -1,5 +1,5 @@
 # My Awesome GitHub Repository
-Hey there! 👋 I'm a 23-year-old developer from Ukraine, passionate about coding and technology. 🚀
+Hey there! 👋 I'm a 24-year-old developer from Ukraine, passionate about coding and technology. 🚀
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pasichDev&show_icons=true&theme=radical)
 
@@ -15,14 +15,14 @@ Hey there! 👋 I'm a 23-year-old developer from Ukraine, passionate about codin
 - **Backend**: PHP, Java
 - **Frontend**: JavaScript, Dart (Flutter), HTML, CSS
 - **Mobile**: Kotlin, Dart (Flutter), Swift (learning)
-- **Other**: C++, Python (learning)
+- **Other**: C++, Go, Python (learning)
 
 ## Projects
 
 Here are some of the projects I've been working on:
 
 1. [My Notes](https://github.com/pasichDev/My-Notes): My Notes is a user-friendly app for capturing and organizing your ideas, tasks, and memos. Stay organized and productive with this simple note-taking solution..
-2. [NosoSova](https://github.com/Noso-Project/NosoSova): Multi-platform wallet for NosoCoin.
+2. [NosoSova](https://github.com/Noso-Project/NosoSova): Multi-platform wallet for NosoCoin && SovaRPC (CLI && GUI)
 3. [NosoDart](https://github.com/Noso-Project/NosoDart): Implementation of basic cryptographic functions for Noso
 
 Feel free to explore my repositories for more exciting projects!
